@@ -10,3 +10,31 @@ This project is ideal for students who are abroad. Keep a journal or blog of you
   - include anything surprising or challenging as well as what you were doing and learning.
 
 - Include at least 1 photo for every 2 blog/journal entries."
+
+
+** Posts Checklist
+   
+*** TODO [[file:~/travelblog/_posts/2018-02-01-Spanish-classes.md][Spanish Classes]]
+**** TODO 800 Words
+**** TODO Picture
+*** TODO [[file:~/travelblog/_posts/2018-03-10-A-Trip-Into-the-Countryside.md][A Trip Into the Countryside]]
+**** TODO 800 Words
+**** TODO Picture
+*** TODO [[file:~/travelblog/_posts/2018-03-30-Views-of-Sarajevo.md][Views of Sarajevo]]
+**** TODO 693/800 Words
+**** TODO Picture
+*** TODO [[file:~/travelblog/_posts/2018-03-31-War-Childhood.md][War Childhood]]
+**** TODO 800 Words
+**** TODO Picture
+*** TODO [[file:~/travelblog/_posts/2018-04-18-Musical-Neighbor.md][Musical Neighbor]]
+**** TODO 800 Words
+**** TODO Picture
+*** DONE [[file:~/travelblog/_posts/2018-04-24-Losing-a-Professor.md][Losing a Professor]]
+**** DONE 800 Words
+**** DONE Picture
+*** TODO 4 more posts
+    - Maybe a post about the Geography, with a map, explaining where
+    Leganés and Getafe are, and where the mountains are, and a bit of the demographics
+    and history.
+    - Dublin
+    - Protests in Lavapiés

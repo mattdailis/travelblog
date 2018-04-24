@@ -64,6 +64,8 @@ of the castle, to the southwestern part that faced the city. From this high up,
 the graveyards fade into the rest of the city, and the valley stretches as far
 as the eye can see.
 
+![View of Sarajevo]({{ "/assets/sarajevo-view.jpg" | absolute_url }})
+
 That night we went out with Rachael to a local bar that was done up to imitate
 the "Cheer" bar from a TV show. 
 
