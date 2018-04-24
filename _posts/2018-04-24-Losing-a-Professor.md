@@ -45,7 +45,8 @@ finished with a muted sarcasm and left to go buy some food from the *supermercad
 a regular day, I might have gone with him, but today I want to get my thoughts down
 about Florin. 
 
-![image]({{ "/assets/florin.jpg" | absolute_url }})
+
+![Florin]({{ "/assets/florin.jpg" | absolute_url }})
 
 Florin was a soft spoken man with a hard to place, not quite Spanish accent. He was
 the only professor who had asked me what university I was from, and he actually knew 
