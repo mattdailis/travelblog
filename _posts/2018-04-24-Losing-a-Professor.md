@@ -50,17 +50,18 @@ down about Florin.
 
 Florin was a soft spoken man with a hard to place, not quite Spanish accent. He was
 the only professor who had asked me what university I was from, and he actually 
-knew of the professor who had taught my operating systems class back in Boston. He 
-cared about teaching well - he was the only professor that customized his 
-presentation slides and updated them throughout the semester. He was a fan of the
-Coursera style of teaching, where every few minutes during the presentation, he
-would provide us with a quiz question to either check our understanding of the
-material, or to get us thinking about the upcoming material. Then, at the end of
-the lecture, he would present us with the full 10 question quiz again, and would
-grade us based on that. 
+knew of the professor who had taught my operating systems class back in Boston.
+
+He cared about teaching well - he was the only professor that customized his 
+presentation slides and updated them throughout the semester. He was a fan of the 
+Coursera style of teaching, where every few minutes during the 
+presentation, he would provide us with a quiz question to either check our 
+understanding of the material, or to get us thinking about the upcoming material.
+Then, at the end of the lecture, he would present us with the full 10 question quiz
+again, and would grade us based on that. 
 
 Yesterday was no different from any other day. I brought breakfast into the
-classroom, even though I knew it was considered rude in Spanish culture. He 
+classroom, even though I knew it is considered rude in Spanish culture. He 
 lectured from nine to ten about implementing access matrices in operating systems,
 gave us the usual break halfway through, then spent a while detailing the
 components of the IBM Blue Gene supercomputer. I tuned in occasionally, electing to
