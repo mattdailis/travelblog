@@ -35,49 +35,52 @@ Arnaud, my friend from Toulouse came up to our table with a shoulder bag, his ey
 puffed up either from lack of sleep or from sadness. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \- "I overslept my, uh, awakening," he started,
-reaching for the word for alarm clock and not finding it. I began to assure him that 
+reaching for the word for alarm clock and not finding it. I began to assure him that
 the exam had not taken place, but he waved me off.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \- "I know - my partner told me last night while
-I was working on my report. I was shocked, and I felt terrible as I finished my report
-as though nothing had happened. I overslept, and didn't take my shower - Great Day," he 
-finished with a muted sarcasm and left to go buy some food from the *supermercado*. On
-a regular day, I might have gone with him, but today I want to get my thoughts down
-about Florin. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \- "I know - my partner told me last night
+while I was working on my report. I was shocked, and I felt terrible as I finished
+my report as though nothing had happened. I overslept, and didn't take my shower -
+Great Day," he finished with a muted sarcasm and left to go buy some food from the *supermercado*. 
 
+On a regular day, I might have gone with him, but today I want to get my thoughts 
+down about Florin. 
 
 ![Florin]({{ "/assets/florin.jpg" | absolute_url }})
 
 Florin was a soft spoken man with a hard to place, not quite Spanish accent. He was
-the only professor who had asked me what university I was from, and he actually knew 
-of the professor who had taught my operating systems class back in Boston. He cared
-about teaching well - he was the only professor that customized his presentation
-slides and updated them throughout the semester. He was a fan of the Coursera style 
-of teaching, where every few minutes during the presentation, he would provide us
-with a quiz question to either check our understanding of the material, or to get us
-thinking about the upcoming material. Then, at the end of the lecture, he would present
-us with the full 10 question quiz again, and would grade us based on that. 
+the only professor who had asked me what university I was from, and he actually 
+knew of the professor who had taught my operating systems class back in Boston. He 
+cared about teaching well - he was the only professor that customized his 
+presentation slides and updated them throughout the semester. He was a fan of the
+Coursera style of teaching, where every few minutes during the presentation, he
+would provide us with a quiz question to either check our understanding of the
+material, or to get us thinking about the upcoming material. Then, at the end of
+the lecture, he would present us with the full 10 question quiz again, and would
+grade us based on that. 
 
-Yesterday was no different from any other day. I brought breakfast into the classroom,
-even though I knew it was considered rude in Spanish culture. He lectured from nine to 
-eleven about implementing access matrices in operating systems, gave us the usual break
-halfway through, then spent a while detailing the components of the IBM Blue Gene 
-supercomputer. I tuned in occasionally, electing to spend class working on the assignment 
-that was due that night.
+Yesterday was no different from any other day. I brought breakfast into the
+classroom, even though I knew it was considered rude in Spanish culture. He 
+lectured from nine to ten about implementing access matrices in operating systems,
+gave us the usual break halfway through, then spent a while detailing the
+components of the IBM Blue Gene supercomputer. I tuned in occasionally, electing to
+spend class working on the assignment that was due that night.
 
-As class ended, I darted out to throw my coffee cup and wrapper
-away, afraid he might leave and I might not be able to ask him my question before it was
-too late (for the assignment). I came back into the room as he finished packing his bag.
+When class ended at eleven, I darted out to throw my coffee cup and wrapper
+away, afraid he might leave and I might not be able to ask him my question before
+it was too late (for the assignment). I came back into the room as he finished 
+packing his bag.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \- "Professor, I have a question about the homework. 
-Do you know how we should implement CRCs?"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \- "Professor, I have a question about the 
+homework. Do you know how we should implement CRCs?"
 
 He looked at me with a tired expression on his face, but his commitment to teaching 
-prevailed and he patiently waited while I drew out my design on the board. He started
-to voice an objection about my design, thought better of it, and told me that I should
-really ask Davide. I thanked him, and held the door as we left together. 
+prevailed and he patiently waited while I drew out my design on the board. He 
+started to voice an objection about my design, thought better of it, and told me
+that I should really ask Davide. I thanked him, and held the door as we left 
+together. 
 
-We walked side by side down the hallway, until I noticed he wasn't beside me anymore.
-I turned to look, and he stood leaning on the bathroom door. He looked me in the eye,
-gave me a tired smile and a little wave, and said "Bye."
+We walked side by side down the hallway, until I noticed he wasn't beside me
+anymore. I turned to look, and he stood leaning on the bathroom door. He looked me
+in the eye, gave me a tired smile and a little wave, and said "Bye."
 
