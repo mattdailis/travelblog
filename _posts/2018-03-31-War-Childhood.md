@@ -3,7 +3,8 @@ layout: post
 categories: sarajevo
 ---
 
-Saturday morning was a lazy one. Rachael got up before anyone else
+## Saturday morning was a lazy one.
+Rachael got up before anyone else
 and showered, because she's been in the habit of getting up for work.
 
 We eventually made our way to a cafe, where the only employee tried

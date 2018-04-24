@@ -3,10 +3,10 @@ layout: post
 categories: sarajevo
 ---
 
-We woke up in the morning and went to deliver the key to Rachael. This time
-she also left her phone at home.
+## We woke up in the morning and went to deliver the key to Rachael. 
+This time she also left her phone at home.
 
-For breakfast, we had pita at a *Bu&#x2026;ca*. We walked to the end of Old Town,
+For breakfast, we had pita at a *buregdzinica*. We walked to the end of Old Town,
 past the old mosque where people in business suits were leaving their
 shoes at the door, and took a cobblestone road that veered left and up the 
 mountain. Dodging cars, we made our way straight up the mountain, past a
