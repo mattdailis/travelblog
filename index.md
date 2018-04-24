@@ -2,6 +2,8 @@
 layout: default
 ---
 
+Click on the header at any point to return to this page.
+
 [//]: # "List of posts:"
 {% for post in site.posts %}
 <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
