@@ -1,6 +1,7 @@
 ---
 layout: post
-categories: sarajevo
+#categories: sarajevo
+title: Jovenes de guerra
 ---
 
 ## Saturday morning was a lazy one.

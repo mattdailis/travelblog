@@ -1,6 +1,7 @@
 ---
 layout: post
-categories: sarajevo
+# categories: sarajevo
+title: Vistas de Sarajevo
 ---
 
 ## We woke up in the morning and went to deliver the key to Rachael. 

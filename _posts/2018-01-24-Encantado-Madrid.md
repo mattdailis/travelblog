@@ -1,0 +1,74 @@
+---
+layout: post
+title: ¡Encantado, Madrid!
+---
+
+> **Encantado** is the customary ending to an intruduction, used to mean "nice to
+> meet you." It comes from the verb "encantar," most related to the English word
+> "enchant." If you like something a lot, you can say "¡Me encanta mucho!"
+
+## The first week of school was a study in confusion.
+
+I got up early and ran to the train station at 8, and got to school before 9. The
+streets of Madrid are quiet and grey at this hour, with only street cleaners
+milling about, picking up dog poop.
+
+I walked briskly to campus, and passed the campus map without a glance, convinced
+that the buildings would be somehow labeled, or at least arranged in a logical
+way. Neither was true, so I spent a while milling about. I found room 4.01.E02
+after some difficulty, since I also forgot about the European numbering system
+for floors, and wing E jutts out at an angle to the rest of the building.
+
+![Room 4.01.E02]({{ "assets/41e02.jpg" | absolute_url }})
+
+I found a seat near the window. The front row was vacant, since no one wants to
+sit that close to the professor. Aside from me, there were maybe ten people. There
+was no professor. We sat in silence for about ten minutes, communicating the minumum
+amount necessary to allow people to reach their seats. After a while, we began to
+get concerned: Were Spanish professors always this late? Someone went to ask on the
+ground floor, and somewhere between their bad spanish, and the source's bad english,
+gathered that all first period classes were cancelled. We decided, for lack of 
+anything better to do, to introduce ourselves. I wrote everything down on the
+first page of my notebook so I wouldn't forget.
+
+### Matthis & Denis
+
+are French boys from the northern city of *Rouen*. They spent a while helping me
+pronounce it, but assured me that French people can't say it right either. Denis
+wears an earring (a *boucle d'oreille*, as he coached me), a nose piercing, and
+glasses. He responds to "Dennis" even though he calls himself "Deu-nee". He is
+quiet at first, but clearly studious, and when he begins to make fun of you, he is 
+hard to stop, as I learned to my mixed joy and dismay.
+
+Matthis is a tall, thoughtful, bright, gamer kid who likes to joke about French
+culture. His Algerian grandfather came to France when he was 6 years old, and 
+thus Matthis knows a splattering of Arabic and fantasizes about Algerian
+cookies at the end of Ramadan each year.
+
+I ask Matthis how to say "Handwriting" in French, and when he struggles to find
+the word, a voice pipes up behind us. "It's *écriture*". I turn around and ask
+who's talking. 
+
+### Arnaud
+
+is a fun-loving and kind guy from Toulouse. He dislikes his home University,
+and is looking to see if he can spend a full year in Madrid. 
+
+### Joanna
+
+pronounces her name "Yo-ahna" or Йоанна as I phoneticize in Russian. She is
+from Poland. She is the most hard-working out of all of us, and her will 
+would prove to be the force that pulled all of us through the class. Not only
+smart, she is also the gutsiest of us, since she is the only one who actually
+took a technical class in Spanish. 
+
+When it becomes clear that the professor is not coming, a blonde boy from the
+end of my row calls to me, "Want to go get a coffee, Matt?" I didn't quite
+catch his name when he told me, something like "Svad."
+
+### Svenn
+
+
+
+
+![Classmates]({{ "assets/classmates.jpg" | absolute_url }})
