@@ -52,8 +52,7 @@ time abroad and keep up with it for the duration of your trip or program.
 ** Posts Checklist
 
    
-*** TODO Lisbon
-   
+*** TODO [[file:~/travelblog/_posts/2018-01-18-Lisbon.md][Lisbon]]
 *** TODO [[file:~/travelblog/_posts/2018-01-24-Encantado-Madrid.md][¡Encantado, Madrid!]]
 **** Arrival and biography of everyone
 *** TODO A Norwegian's Birthday
@@ -87,9 +86,21 @@ time abroad and keep up with it for the duration of your trip or program.
      Perdimos un professor
 *** TODO Vundabar and the Peruvian Man
     Vundabar y el hombre Peruano
-*** TODO 3 more posts
+* Ideas
     - Maybe an arrival post about the Geography, with a map, explaining where
     Leganés and Getafe are, and where the mountains are, and a bit of the demographics
     and history.
     - Dublin
     - Soccer Game
+      
+
+
+Maybe combine Sarajevo into one
+Teodoro Perez Guitar builder
+
+
+- Selfie in train for front page
+
+- T3CHFest
+
+- Ocho de Marzo
