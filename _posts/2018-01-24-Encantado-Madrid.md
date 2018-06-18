@@ -7,6 +7,12 @@ title: ¡Encantado, Madrid!
 > meet you." It comes from the verb "encantar," most related to the English word
 > "enchant." If you like something a lot, you can say "¡Me encanta mucho!"
 
+## We touched down in Madrid as the sun was going down. 
+
+We took the 24 hour airport shuttle, which for 5€ brings passengers from Miguel Barrajas airport to the Atocha train station, right in the middle of Madrid. Cursing our hefty baggage, we hiked up the Calle de los Medicos until we reached our street, Calle de los Tres Pesces. We ate dinner at a pizza place on the corner of our street, and went to bed.
+
+The next day was orientation for international students. We found our way to the campus of *Universidad Carlos III de Madrid* (UC3M) without breakfast, and the presentation was pretty boring. We were, however, amused at our tour guide, named Carlos like the university itself, who got lost on the tiny campus. That night we went home and figured out our grocery store, called *Carrefour*. 
+
 ## The first week of school was a study in confusion.
 
 I got up early and ran to the train station at 8, and got to school before 9. The
@@ -29,7 +35,9 @@ get concerned: Were Spanish professors always this late? Someone went to ask on 
 ground floor, and somewhere between their bad spanish, and the source's bad english,
 gathered that all first period classes were cancelled. We decided, for lack of 
 anything better to do, to introduce ourselves. I wrote everything down on the
-first page of my notebook so I wouldn't forget.
+first page of my notebook so I wouldn't forget. When my classmates noticed that I was writing about them, they came over to correct my mistakes. 
+
+![Classmates]({{ "assets/classmates.jpg" | absolute_url }})
 
 ### Matthis & Denis
 
@@ -52,7 +60,7 @@ who's talking.
 ### Arnaud
 
 is a fun-loving and kind guy from Toulouse. He dislikes his home University,
-and is looking to see if he can spend a full year in Madrid. 
+and is looking to see if he can spend a full year in Madrid. He loves to dance in clubs and wear black lipstick, and while quiet and reserved in class, turned out to be incredibly friendly and talkative outside of campus.
 
 ### Joanna
 
@@ -62,13 +70,16 @@ would prove to be the force that pulled all of us through the class. Not only
 smart, she is also the gutsiest of us, since she is the only one who actually
 took a technical class in Spanish. 
 
-When it becomes clear that the professor is not coming, a blonde boy from the
+When it becomes clear that the professor is not coming, a blond boy from the
 end of my row calls to me, "Want to go get a coffee, Matt?" I didn't quite
 catch his name when he told me, something like "Svad."
 
-### Svenn
+### Svenn, like the reindeer from *Frozen*
+
+A blond boy who studies computer science and loves to play soccer and guitar - that description wouldn't be enough to distinguish between me and Svenn. He's from the northern town of Tromsø, Norway, and spent a good bit of his former life playing for a club soccer team and performing Johnny Cash covers. Now he leads a running team for his university, and experiments with cryptocurrencies. 
+
+After meeting all my fellow Distributed Systems students (but not the professor!), the Security Engineering professor did arrive, so we went back to our seats and the semester officially began. 
 
 
 
 
-![Classmates]({{ "assets/classmates.jpg" | absolute_url }})

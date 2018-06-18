@@ -23,12 +23,9 @@ No two events can be similar in context (i.e. visiting two different memorials o
 Document the events both through written commentary and photographs. Each event description/commentary should be approximately 500 words. What did you learn at the event? What surprised you? Who else was at the event?
 
 ** La Mancha trip
-
 ** Flamenco
-
-** March 8th protests
-
 ** Music in Bar
+** Plaza de Toros
 
 * TODO Project #6: Keep a Travel Blog.  
   DEADLINE: <2018-06-24 Sun>
@@ -52,30 +49,17 @@ time abroad and keep up with it for the duration of your trip or program.
 ** Posts Checklist
 
    
-*** TODO [[file:~/travelblog/_posts/2018-01-18-Lisbon.md][Lisbon]]
-*** TODO [[file:~/travelblog/_posts/2018-01-24-Encantado-Madrid.md][¡Encantado, Madrid!]]
-**** Arrival and biography of everyone
-*** TODO A Norwegian's Birthday
-    Compleaños
+*** TODO [[file:~/travelblog/_posts/2018-01-18-Lisbon.md][Lisbon]] 
+    - Day 3:
+	- Museum
+	- Fado
 *** TODO A Family Visit
 **** Protests in Lavapies
      Mis padres
 *** TODO [[file:~/travelblog/_posts/2018-02-01-Spanish-classes.md][Spanish Classes]]
-**** TODO 800 Words
-**** TODO Picture
-     Espanol para Extranjeros
 *** TODO [[file:~/travelblog/_posts/2018-03-10-A-Trip-Into-the-Countryside.md][A Trip Into the Countryside]]
-**** TODO 800 Words
-**** TODO Picture
-     La Mancha
-*** TODO [[file:~/travelblog/_posts/2018-03-30-Views-of-Sarajevo.md][Views of Sarajevo]]
-**** TODO 693/800 Words
-**** TODO Picture
-     Vistas de Sarajevo
-*** TODO [[file:~/travelblog/_posts/2018-03-31-War-Childhood.md][War Childhood]]
-**** TODO 800 Words
-**** TODO Picture
-     Jovenes de la guerra
+*** DONE [[file:~/travelblog/_posts/2018-03-30-Views-of-Sarajevo.md][Views of Sarajevo]]
+**** DONE [[file:~/travelblog/_posts/2018-03-31-War-Childhood.md][War Childhood]]
 *** TODO [[file:~/travelblog/_posts/2018-04-18-Musical-Neighbor.md][Musical Neighbor]]
 **** TODO 800 Words
 **** TODO Picture
@@ -84,8 +68,42 @@ time abroad and keep up with it for the duration of your trip or program.
 **** DONE 800 Words
 **** DONE Picture
      Perdimos un professor
-*** TODO Vundabar and the Peruvian Man
+*** DONE Vundabar and the Peruvian Man
     Vundabar y el hombre Peruano
+
+
+*** DONE 2018-01-18-Boston.md
+*** DONE 2018-01-20-Obrigado-Lisbon.md
+*** DONE 2018-01-24-Encantado-Madrid.md
+*** DONE 2018-03-03-A-Norwegian-Birthday-Party.md
+    [[file:~/travelblog/_posts/2018-03-03-A-Norwegian-Birthday-Party.md][file]]
+**** Retiro park
+**** Mention Gay Pride crosswalks
+**** Going on runs
+**** Rosa & Carmen in the lunch place
+**** Svenn's birthday party (bought him a capo)
+***** All the people (Javiera, Jonny, Bence)
+*** DONE 2018-03-20-A-family-visit
+**** TODO Looking for a guitar
+**** TODO Teodoro Perez
+*** DONE 2018-04-15-Dublin.md
+*** DONE 2018-03-30-Views-of-Sarajevo.md
+*** DONE 2018-04-24-Losing-a-Professor.md
+*** DONE 2018-05-15-Morrina.md
+*** DONE 2018-05-16-Morrina-2.md
+*** TODO 2018-04-18-Musical-Neighbor.md
+    ?Dublin?
+    Story of meeting
+    Kike
+    Flora
+    Taking Notes
+    La Fidula
+    Later concerts
+    Manu's father
+    Buysing CD
+    ?DUBLIN?
+
+
 * Ideas
     - Maybe an arrival post about the Geography, with a map, explaining where
     Leganés and Getafe are, and where the mountains are, and a bit of the demographics
@@ -94,13 +112,18 @@ time abroad and keep up with it for the duration of your trip or program.
     - Soccer Game
       
 
-
-Maybe combine Sarajevo into one
-Teodoro Perez Guitar builder
-
+Dublin?
 
 - Selfie in train for front page
 
 - T3CHFest
 
 - Ocho de Marzo
+
+# Todo
+- Searching for Soccer and Guitar
+  
+  
+Add buttons to navigation bar: Introduction, About CEP, About Me, Index, Next and Previous
+
+Maybe write both projects on same website? (or make a separate Repo and link between them)
