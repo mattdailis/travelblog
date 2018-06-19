@@ -19,3 +19,9 @@ If this is your first time visiting, please read the [Introduction]({{ "introduc
 </ol>
 
 # Project #4: Attend and Participate in Community & Cultural Events
+
+<ol>
+	<li>
+		<a href="/travelblog/community/lamancha.html">A Trip into La Mancha</a>
+	</li>
+</ol>
