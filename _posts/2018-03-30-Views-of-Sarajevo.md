@@ -3,7 +3,11 @@ layout: post
 # categories: sarajevo
 title: Vistas de Sarajevo
 ---
-> a **Vista** is a "view"
+> a **Vista** is a "view." "Hasta la vista" means "Until we see each other again."
+
+For context on this one: Michelle's good friend, Rachael, is on co-op in Bosnia.
+We went to visit her over our Spring break. The following are two diary entries
+of mine documenting a few days on that trip.
 
 ## We woke up in the morning and went to deliver the key to Rachael. 
 This time she also left her phone at home.

@@ -11,19 +11,26 @@ layout: default
 	  {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
 	  {{ page.date | date: date_format }}
 	</time>
-	{%- if page.author -%}
-	• <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
-	{%- endif -%}</p>
     </header>
   </a>
 
+  
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
+
+      <div class="PageNavigation">
+  {% if page.previous.url %}
+    <p><a class="prev button" href="{{page.previous.url | absolute_url }}">&laquo; Previous: {{page.previous.title}}</a></p>
+  {% endif %}
+    {% if page.next.url %}
+    
+    <p><a class="next button" href="{{page.next.url | absolute_url }}">Up Next: {{page.next.title}} &raquo;</a></p>
+  {% endif %}
+</div>
+
   </div>
 
-  {%- if site.disqus.shortname -%}
-  {%- include disqus_comments.html -%}
-  {%- endif -%}
 
+  
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
   </article>

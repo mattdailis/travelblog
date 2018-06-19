@@ -2,11 +2,13 @@
 layout: default
 ---
 
-Click on the header at any point to return to this page.
+Click on the title at any point to return to this page.
 
-If this is your first time visiting, read the [Introduction].
+If this is your first time visiting, please read the [Introduction]({{ "introduction.html" | absolute_url}}).
 
 [//]: # "List of posts:"
+
+# Project #6: Keep a Travel Blog
 <ol>
 	{% for post in site.posts reversed %}
 	<li>
@@ -16,10 +18,4 @@ If this is your first time visiting, read the [Introduction].
 	{% endfor %}
 </ol>
 
-## Introduction
-
-- Background on the CEP program
-- Background on me
-- Explanation of this project
-
-![Picture of me in train]({{ "assets/trainselfie.jpg" | absolute_url }})
+# Project #4: Attend and Participate in Community & Cultural Events

@@ -26,6 +26,7 @@ Document the events both through written commentary and photographs. Each event 
 ** Flamenco
 ** Music in Bar
 ** Plaza de Toros
+** El Rastro (reuse text from blog post, and write about guitar search instead)
 
 * TODO Project #6: Keep a Travel Blog.  
   DEADLINE: <2018-06-24 Sun>

@@ -1,7 +1,9 @@
 ---
 layout: post
-title: El Cumpleaños Noruego
+title: El Primer Mes
 ---
+
+> **Mes** means "month." *Primero* means "first." Normally, adjectives in Spanish come after the noun. However, some may come before the noun, and those tend to lose their last vowel: hence "Primero" becomes "Primer"
 
 ## The first month of classes flew by quickly.
 
@@ -9,7 +11,8 @@ There were some clashes with a professor over his poorly translated quizzes, but
 
 Within the first week, Michelle and I went to see a soccer game: Leganés (the city that housed our UC3M engineering campus) vs Sevilla (a large city to the South). This game was a particularly big deal because it was the farthest the *Pepineros* had ever gotten - tied for 3rd best team in Spain. The game itself felt like a high school football game, since everyone there knew each other and felt like a tight-knit community.
 
-# Picture of soccer
+![soccer]({{ "assets/soccer.jpg" | absolute_url }})
+
 
 Over February we explored and made our own Madrid's central park: *El Retiro*. Located a stone's throw away from the central train station of Atocha, it is a favorite among locals and tourists alike. In good weather (which is to say, most of the time) it is bubbling with joggers and people working out, as well as roller skaters of all levels, some very impressive. On some days, the local *Pokemon Go* community comes out and plays in huge packs of 30 or more.
 
@@ -17,7 +20,7 @@ In its Northwestern corner is a large artificial pond full of boats, with a larg
 
 Closer to its center is a *Crystal Palace*. Built for a world fair exposition, just like the Eiffel Tower, it remains as a pretty man-made counterpart to the natural beauty of the park. The pond in front of it is under maintenance, so we've been unable to appreciate the landscaping and design of this particular part of the park.
 
-# picture of retiro
+![retiro]({{ "assets/retiro.jpg" | absolute_url }})
 
 Crosswalks in Madrid have lights with varied pictures - some are your typical walking man. Others are a walking woman, walking pairs of men, pairs of women, a man and a woman together, a dog, a child, the list goes on and on. As Michelle learned in her Spanish-language communication class, these are the aftermath of a Gay Pride event in Madrid a few years ago, where they replaced all of the crosswalk signals with ones that showed the varied people of the city.
 
