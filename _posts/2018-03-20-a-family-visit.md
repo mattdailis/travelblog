@@ -16,13 +16,11 @@ Aside from *T3CHFEST*, our Software Development lab teacher threw a party in lab
 
 International Womens' day came and went. There were large protests in the center of Madrid - organizers urged women to stay home from work (one of Michelle's professors cancelled class), and students to stay home from university (this didn't really make sense to us - how is it empowering to deny yourself education?).
 
-# TODO link
-
-We [took a trip to La Mancha]("lamancha.md") last week, and learned about the places of Don Quixote. 
+We [took a trip to La Mancha]({{ "community/lamancha.html" | absolute_url }}) last week, and learned about the places of Don Quixote. 
 
 My family came to visit me for my birthday. They arrived on Sunday and rented an apartment on the same street as us. We took the to *El Rastro* - a market that happens in our neighborhood every Sunday year round. Historically, this was the path that dead cows were transported along from the slaughterhouse to the tannery, so the tradition of leather in this neighborhood goes way back. Today, the market still sells leather, but also anything else imaginable. From books, to touristy souvenirs, to guitars, to *Paella* pans and power tools. We wandered through the market while my mother bought herself some trinkets. We also took them to *Plaza Mayor*, a historical center of Madrid where everything from bull fights to public executions took place (not that those are altogether different things). 
 
-On my birthday we [went to a Flamenco show](brokenlink) just a few blocks from our apartment. As we were walking back, we noticed that the recycling dumpster was a bit smaller than usual, smelled funny, and was billowing in black smoke. We looked up what had happened in the news later that night.
+On my birthday we [went to a Flamenco show]({{ "community/flamenco.html" | absolute_url }}) just a few blocks from our apartment. As we were walking back, we noticed that the recycling dumpster was a bit smaller than usual, smelled funny, and was billowing in black smoke. We looked up what had happened in the news later that night.
 
 Our neighborhood, called *Lavapiés* after a fountain where people used to wash their feet, is one of the most diverse in Madrid. Restaurants line the streets serving ethnic food from India, Turkey, China. People live here from all over the world - *Carrefour*, the French supermarket chain where we get all of our groceries - is full of every language. There are, in particular, many immigrants from Senegal. Some of these immigrants don't have papers, and even the ones who go through the herculean effort of obtaining those papers have a tough time finding work. So most take the obvious solution - working without papers. 
 
