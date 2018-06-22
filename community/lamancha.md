@@ -3,10 +3,17 @@ layout: post
 title: La Mancha (Community Event)
 ---
 
+
+> **Date:** Saturday March 10, 2018
+> 
+> **Location:** Castilla La Mancha (2 hours south of Madrid)
+> 
+> **Organization:** City of Leganés
+
 > **Mancha** means a spot or a mark, like the spot on a cow or a dalmatian.
 
 Michelle and I donned our heaviest rain gear (which is to say, our usual light
-jackets) and took the train to Leganés on a Saturday. We were to meet her Spanish class for a trip out to "La Mancha" - the countryside near Madrid.
+jackets) and took the train to Leganés on a Saturday. We were to meet her Spanish class for a trip out to "La Mancha" - the countryside near Madrid and the setting of the famous book *Don Quixote*.
 
 Michelle and I have been taking Spanish classes for most of our time here. After the ones offered by the university fell through, I investigated the ones offered by the City of Leganés (El *Ayuntamiento* de Leganés). These turned out to be free, run entirely by volunteers, and incredibly good. In hindsight, it's also great that we took these because we met so many people who were not university students.
 
@@ -35,3 +42,5 @@ Happily fed, we boarded the busses again and headed out to see some of the old w
 ![windmills]({{ "assets/windmills.jpg" | absolute_url }})
 
 At the end of the day, we felt enriched by the experience - we had learned not only about the local culture, but about the cultures of our fellow immigrants, and enjoyed some great food (all for 3€, I might add).
+
+[Next Community Event]({{ "community/manu.html" | absolute_url }})

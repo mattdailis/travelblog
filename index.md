@@ -24,4 +24,13 @@ If this is your first time visiting, please read the [Introduction]({{ "introduc
 	<li>
 		<a href="/travelblog/community/lamancha.html">A Trip into La Mancha</a>
 	</li>
+	<li>
+		<a href="/travelblog/community/manu.html">A Musical Community</a>
+	</li>
+	<li>
+		<a href="/travelblog/community/flamenco.html">Flamenco: Spanish Tap Dance</a>
+	</li>
+	<li>
+		<a href="/travelblog/community/bulls.html">A History of Bulls</a>
+	</li>
 </ol>
