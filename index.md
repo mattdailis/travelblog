@@ -1,14 +1,15 @@
 ---
 layout: default
 ---
+# Index
 
-Click on the title at any point to return to this page.
+Use the links below to navigate to all of the blog posts and community event pages. Click on the title at any point to return to this page.
 
 If this is your first time visiting, please read the [Introduction]({{ "introduction.html" | absolute_url}}).
 
 [//]: # "List of posts:"
 
-# Project #6: Keep a Travel Blog
+## Project #6: Keep a Travel Blog
 <ol>
 	{% for post in site.posts reversed %}
 	<li>
@@ -18,7 +19,7 @@ If this is your first time visiting, please read the [Introduction]({{ "introduc
 	{% endfor %}
 </ol>
 
-# Project #4: Attend and Participate in Community & Cultural Events
+## Project #4: Attend and Participate in Community & Cultural Events
 
 <ol>
 	<li>
