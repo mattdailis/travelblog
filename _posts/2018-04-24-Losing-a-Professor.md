@@ -5,7 +5,7 @@ title: Perdimos un profesor
 > or to lose a loved one. 
 
 ## This morning, we all gathered around the door
-at 8:57, anxous not to miss the exam at nine. We had all been working hard until the 
+at 8:57, anxious not to miss the exam at nine. We had all been working hard until the 
 deadline at midnight, and now we sleepily crowded the door, waiting for Manuel to come 
 with the key.
 
