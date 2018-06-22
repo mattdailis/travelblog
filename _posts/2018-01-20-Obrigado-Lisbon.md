@@ -14,7 +14,7 @@ We had spied a castle on top of a hill, and decided to make it our aim to reach 
 
 ![Tile picture]({{ "assets/romantheater.jpg" | absolute_url }})
 
-It struck me that we truly were in Europe. You can find some pretty architecture in the states, but you'll rarely stumble across anything built more than a millenium ago. 
+It struck me that we truly were in Europe. You can find some pretty architecture in The States, but you'll rarely stumble across anything built more than a millenium ago. 
 
 We reached the top of the hill, and after climbing all over the Castle Sao Jorge, splitting a ham sandwich for lunch (where a peacock blocked our way into the cafe) lay down on a bench to take relax in the sun.
 

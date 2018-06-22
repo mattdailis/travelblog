@@ -3,7 +3,7 @@ layout: post
 title: ¡Encantado, Madrid!
 ---
 
-> **Encantado** is the customary ending to an intruduction, used to mean "nice to
+> **Encantado** is the customary ending to an introduction, used to mean "nice to
 > meet you." It comes from the verb "encantar," most related to the English word
 > "enchant." If you like something a lot, you can say "¡Me encanta mucho!"
 
