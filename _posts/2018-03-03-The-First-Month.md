@@ -16,7 +16,7 @@ Within the first week, Michelle and I went to see a soccer game: Leganés (the c
 
 Over February we explored and made our own Madrid's central park: *El Retiro*. Located a stone's throw away from the central train station of Atocha, it is a favorite among locals and tourists alike. In good weather (which is to say, most of the time) it is bubbling with joggers and people working out, as well as roller skaters of all levels, some very impressive. On some days, the local *Pokemon Go* community comes out and plays in huge packs of 30 or more.
 
-In its Northwestern corner is a large artificial pond full of boats, with a large monument to Alfonso XIII. We haven't tried going out in those boats yet, but we might when it gets warmer. This spot is on many Madrid postcards, and for good reason. 
+In its northwestern corner is a large artificial pond full of boats, with a large monument to Alfonso XIII. We haven't tried going out in those boats yet, but we might when it gets warmer. This spot is on many Madrid postcards, and for good reason.
 
 Closer to its center is a *Crystal Palace*. Built for a world fair exposition, just like the Eiffel Tower, it remains as a pretty man-made counterpart to the natural beauty of the park. The pond in front of it is under maintenance, so we've been unable to appreciate the landscaping and design of this particular part of the park.
 

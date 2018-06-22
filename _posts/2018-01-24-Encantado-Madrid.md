@@ -32,7 +32,7 @@ sit that close to the professor. Aside from me, there were maybe ten people. The
 was no professor. We sat in silence for about ten minutes, communicating the minumum
 amount necessary to allow people to reach their seats. After a while, we began to
 get concerned: Were Spanish professors always this late? Someone went to ask on the
-ground floor, and somewhere between their bad spanish, and the source's bad english,
+ground floor, and somewhere between their bad Spanish, and the source's bad English,
 gathered that all first period classes were cancelled. We decided, for lack of 
 anything better to do, to introduce ourselves. I wrote everything down on the
 first page of my notebook so I wouldn't forget. When my classmates noticed that I was writing about them, they came over to correct my mistakes. 
