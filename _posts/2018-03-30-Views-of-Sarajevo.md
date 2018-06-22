@@ -19,7 +19,7 @@ mountain. Dodging cars, we made our way straight up the mountain, past a
 Cajhana and graffiti advertising the local soccer club. 
 
 After a short while we came upon our first graveyard. What had looked like a
-park on google maps was actually a grassy hillside covered in prestine 
+park on Google Maps was actually a grassy hillside covered in prestine 
 white stone pillars with a square cross-section, ending in a point at the top. 
 Each one marked a grave, and when we came closer we could see that none of the 
 death dates were from before 1992. 
@@ -44,10 +44,10 @@ through the gate, and decided to investigate what we could find on the other
 side. After waiting for a suitable gap between the cars, we briskly walked
 through the gate and were met with a view of a deep valley with some farms and 
 a highway surrounded by mountains that reached for the sky. This place was 
-called *Visigradskaja &#x2026; something*.
+called *Visegradska Kapija*.
 
 Our destination, *Bijela Tabija*, was another, bigger, run-down fortress with
-a view. This one sits atop a cliff overlooking the *Mijelacka &#x2026;* River. The
+a view. This one sits atop a cliff overlooking the *Mijelacka* River. The
 wind buffeted us on the way to the entrance. Inside, we spotted a group of
 arabic-looking women in head scarves, sporting nice pants and shoes. One of 
 them was taking pictures as the other balanced on a narrow ledge of broken rock
@@ -91,5 +91,5 @@ I went to the War Childhood museum. It was bittersweet (more bitter than
 sweet, because of how awful the war was). Since the war was so recent,
 many people who grew up during it are adults today. 
 
-We went to the grocery store to buy dinner. I ate a lot of *sudjuka*.
+We went to the grocery store to buy dinner. I ate a lot of *sudjuka* - a type of spicy sausage.
 
